@@ -1,0 +1,9 @@
+[2019-04-21T20:04:19.005] [DEBUG] poc - contract1555848252959:log
+setObj
+complete
+[2019-04-21T20:04:24.994] [DEBUG] poc - contract1555848252959:log
+getObj
+test1
+[2019-04-21T20:04:31.001] [DEBUG] poc - contract1555848252959:log
+getObj
+test2
