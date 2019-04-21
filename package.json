@@ -1,0 +1,11 @@
+{
+  "name": "antBaas_nodeSDK_connect",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@alipay/mychain": "file:ali_libs/alipay-mychain-0.2.27.tgz",
+    "@alipay/solc": "file:ali_libs/alipay-solc-0.1.12.tgz",
+    "keccak": "^2.0.0",
+    "log4js": "*"
+  }
+}
